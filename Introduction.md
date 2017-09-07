@@ -1,6 +1,6 @@
 # Introduction
 
-<img src="profile.jpg">
+<img src="profile.jpg" alt="Nicholas Moy" style="width:200px;height:200px;">
 
 The better question is which computer classes have I not taken. The two classes that I haven't taken for computer science is Discrete & Continuous Computer Algorithms and my Senior Project. I'm familiar with java, html, css, basic knowledge of php, javascript, and jquery. I've used coding programs such as eclipse, blueJ, texteditor 3, and netbeans.
 
