@@ -11,7 +11,8 @@
     "url": "git+https://github.com/Ncm9658/2017fall.git"
   },
   "dependencies": {
-    "express": "^4.15.4"
+    "express": "^4.15.4",
+    "jquery": "3.2.1"
   },
   "devDependencies": {
     "eslint": "4.7.0"
